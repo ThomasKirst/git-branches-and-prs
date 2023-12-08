@@ -5,3 +5,7 @@
 ### Create a new branch
 
 ...
+
+## Git Pull Requests
+
+...
